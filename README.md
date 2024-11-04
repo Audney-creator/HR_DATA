@@ -6,6 +6,10 @@
 ---
 This project involves analyzing HR data using Power BI to gain insights into employee attrition, demographics, and job satisfaction. The analysis includes data preparation, creating visuals, and calculating key HR metrics to aid in decision-making.
 
+## Data
+---
+The data for this project was sourced from our Learning Management System (LMS), which makes it not an open-sourced data. The dataset was already clean, and this allowed for a seamless transition to analysis and ensured that calculations and insights were accurate from the start.
+
 
 ## Objectives
 ---
@@ -49,6 +53,14 @@ Power BI for data cleaning, transformation, visualization, and insight generatio
   
 **- Attrition by Age Group**
 * Filtered and analyzed attrition across different age groups for more detailed insights.
+
+
+## Visualizations
+---
+
+
+
+
 
 
 
