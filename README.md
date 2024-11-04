@@ -85,3 +85,7 @@ Power BI for data cleaning, transformation, visualization, and insight generatio
 
 ## Key Insights
 ---
+The organization had an attrition rate of 16%, indicating significant turnover within the workforce. The R&D department had the highest attrition count, suggesting a need for targeted retention strategies in this area. Furthermore, employees with a background in life sciences represented the highest attrition count by education field, highlighting a potential vulnerability in retaining specialized talent. Additionally, male employees had the highest attrition count by gender, pointing to possible issues in engagement or satisfaction among male staff. Overall, the insights gathered from this analysis could guide HR in developing focused strategies to improve employee retention, job satisfaction, and overall workforce planning
+
+
+
