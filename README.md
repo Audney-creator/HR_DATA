@@ -1,6 +1,26 @@
 # HR_DATA
+This is the documentation of the analysis performed on HR data during our class to apply Power BI and visualization techniques.
+
+
 ## HR Data Analysis with Power BI
 ---
+
+
+[Project Overview](#project-overview)
+
+[Data](#data)
+
+[Objectives](#objectives)
+
+[Tools used](#tools-used)
+
+[Steps and Analysis](#steps-and-analysis)
+
+[Visualizations](#visualizations)
+
+[Key Insights](key-insights)
+
+
 
 ## Project Overview
 ---
