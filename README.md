@@ -1,13 +1,13 @@
-### HR_DATA
+# HR_DATA
 ## HR Data Analysis with Power BI
 ---
 
-# Project Overview
+## Project Overview
 ---
 This project involves analyzing HR data using Power BI to gain insights into employee attrition, demographics, and job satisfaction. The analysis includes data preparation, creating visuals, and calculating key HR metrics to aid in decision-making.
 
 
-# Objectives
+## Objectives
 ---
 Analyze employee attrition and identify patterns across departments, age groups, job roles, and other demographics.
 Develop visuals to effectively communicate insights, utilizing Power BI’s advanced features like measures, conditional columns, and AI visuals.
@@ -18,7 +18,7 @@ Develop visuals to effectively communicate insights, utilizing Power BI’s adva
 Power BI for data cleaning, transformation, visualization, and insight generation.
 
 
-# Steps and Analysis
+## Steps and Analysis
 ---
 **- Employee Count**
 * Calculated the total count of employees within the dataset.
