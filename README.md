@@ -57,6 +57,23 @@ Power BI for data cleaning, transformation, visualization, and insight generatio
 
 ## Visualizations
 ---
+![Screenshot (8)](https://github.com/user-attachments/assets/22038cf6-4930-4d31-9e65-6584feb3a84b)
+
+
+![Screenshot (11)](https://github.com/user-attachments/assets/b83421d3-7557-4efa-8e37-ee7aae956f45)
+
+
+![Screenshot (12)](https://github.com/user-attachments/assets/f31d2ce0-5ca1-4f5a-837a-d34c7a6c3959)
+
+
+![Screenshot (15)](https://github.com/user-attachments/assets/9f3fb788-a135-40a4-a577-0404edbfc308)
+
+
+![Screenshot (17)](https://github.com/user-attachments/assets/52aab981-3113-4f0e-bd3f-0d2be853122e)
+
+
+
+
 
 
 
